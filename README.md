@@ -32,7 +32,7 @@ should be displayed.
 
 If generation runs succesfully, you will receive 
 "File article.html generated and saved successfully!"
-message, and new file named artyklu.html will be generated in the directory from which you run main.py file.
+message, and new file named artyklu.html will be generated in the directory where file_utils.py is located, which should be in the same directory as main.py.
 ```
 Your Directory/
 ├── artykul.html
