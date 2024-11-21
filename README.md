@@ -39,4 +39,4 @@ Your Directory/
 ├── API_key_folder/
      └── example_api_key.txt
 ```
-You can then insert the content of artykul.html file into <body> </body> section of your HTML file.
+You can then insert the content of artykul.html file into &lt;body> &lt;/body> section of your HTML file.
