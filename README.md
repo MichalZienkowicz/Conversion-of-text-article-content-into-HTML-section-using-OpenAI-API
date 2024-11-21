@@ -11,6 +11,9 @@ Structure of your documents should look as fallows:
 ```
 Your Directory/
 ├── main.py
+├── ui_utils.py
+├── file_utils.py
+├── api_utils.py
 ├── Article_content_folder/
      └── example_article_content.txt
 ├── API_key_folder/
@@ -34,6 +37,9 @@ message, and new file named artyklu.html will be generated in the directory from
 Your Directory/
 ├── artykul.html
 ├── main.py
+├── ui_utils.py
+├── file_utils.py
+├── api_utils.py
 ├── Article_content_folder/
      └── example_article_content.txt
 ├── API_key_folder/
